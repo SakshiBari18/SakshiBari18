@@ -2,7 +2,7 @@
 
 💻 Diploma Computer Engineering Student  
 🚀 Learning Python & Development  
-🔐 Interested in Cybersecurity & AI  
+🔐 Interested in learning new skills 
 
 ---
 
