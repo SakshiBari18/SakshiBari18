@@ -98,9 +98,9 @@ To become a skilled Software Developer and UI/UX Designer by building impactful 
 
 🐙 GitHub: https://github.com/SakshiBari18
 
-💼 LinkedIn: *(Add your LinkedIn profile here)*
+💼 LinkedIn: *https://www.linkedin.com/in/sakshibari-/*
 
-📧 Email: *(Optional)*
+
 
 ---
 
