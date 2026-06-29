@@ -1,35 +1,109 @@
-# Hi, I'm Sakshi 👋
+<h1 align="center">Hi 👋, I'm Sakshi Bari</h1>
 
-💻 Diploma Computer Engineering Student  
-🚀 Learning Python & Development  
-🔐 Interested in learning new skills 
+<h3 align="center">
+Computer Engineering Student • UI/UX Designer • Frontend Enthusiast • Lifelong Learner
+</h3>
 
 ---
 
-## 🔥 Skills
+## 👩‍💻 About Me
+
+🎓 B.Tech Electronics and Computer Science Student
+
+🎨 Passionate about designing clean and user-friendly digital experiences.
+
+💻 Interested in Frontend Development, UI/UX Design and Software Development.
+
+🌱 Currently learning
+- Python
+- UI/UX Design
+- Frontend Development
+- Git & GitHub
+
+🚀 Always exploring new technologies and building projects that solve real-world problems.
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
 - Python 🐍
-- C / Java (Basics)
+- Java ☕
+- C
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+
+### Design
+- Figma
+- Canva
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🎨 Featured Projects
+
+🍽️ **Tandor – Food Delivery App UI/UX**
+- Designed in Figma
+- Interactive Prototype
+- Smart Animate
+- Scroll Behaviour
+- Drag Interactions
+- Modern Mobile UI
+
+🚗 **Custom Ride Garage**
+- Car Customization Website
+- Frontend Development Project
+
+🛡️ **Cybersecurity Threat Detection**
+- AI-based Security Awareness Project
+- Hackathon Project
+
+🐍 **Python Practice**
+- Logic Building
 - Problem Solving
+- Mini Programs
 
 ---
 
-## 📈 Currently Working On
-- Daily Python Practice
-- GitHub Projects
-- Improving Logic Building
+## 🌱 Currently Learning
+
+- Advanced Python
+- JavaScript
+- React
+- UI/UX Design
+- Git & GitHub Best Practices
 
 ---
 
-## 📂 My Projects
-- Python Practice Repository
-- (More projects coming soon...)
+## 🎯 Career Goal
+
+To become a skilled Software Developer and UI/UX Designer by building impactful and user-friendly digital products.
 
 ---
 
-## 🎯 Goal
-To become a skilled Software Developer 🚀
+## 📈 GitHub Stats
+
+*(Enable GitHub Readme Stats later if you'd like.)*
 
 ---
 
-## 🌐 Connect with me
-- LinkedIn (add later)
+## 🌐 Connect With Me
+
+🐙 GitHub: https://github.com/SakshiBari18
+
+💼 LinkedIn: *(Add your LinkedIn profile here)*
+
+📧 Email: *(Optional)*
+
+---
+
+<p align="center">
+✨ "Design with purpose. Build with passion." ✨
+</p>
